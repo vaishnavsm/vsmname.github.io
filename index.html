@@ -1,0 +1,21 @@
+---
+layout: home
+---
+
+<main class="content">
+    <nav class="socials-bar">
+        {% for highlighted_sections in site.highlighted_sections %}
+        <li>
+            <a href="{{ highlighted_sections.href }}">{{ highlighted_sections.title }}</a>
+        </li>
+        {% endfor %}
+    </nav>
+    <br />
+    <nav class="socials-bar">
+        {% for socials in site.socials %}
+        <li>
+            <a href="{{ socials.href }}"><i data-feather="{{ socials.title }}"></i></a>
+        </li>
+        {% endfor %}
+    </nav>
+</main>
