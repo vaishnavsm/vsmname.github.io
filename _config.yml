@@ -1,9 +1,9 @@
-title: Vaishnav Sreekanth Menon
+title: Vaishnav @ re:Invent 2024 
 author: Vaishnav Sreekanth Menon
 
 destination: docs
 
-url: "https://vaishnavsm.com"
+url: "https://vsm.name"
 
 footer_only_homepage: true
 footer_url: "https://github.com/vaishnavsm/vaishnavsm.github.io"
@@ -15,12 +15,12 @@ highlighted_sections:
   - title: Website
     href: https://vaishnavsm.com
   - title: Schedule A Call
-    href: https://calendly.com/vaishnavsm/catch-up
+    href: https://calendly.com/vaishnavsm/meet-at-re-invent
+  - title: Indians @ ReInvent Whatsapp
+    href: https://chat.whatsapp.com/Ff52KklVAqYINOHzzpvVHn
 
 # titles come from https://feathericons.com/
 socials:
-  - href: https://vaishnavsm.com
-    title: web
   - href: mailto://hey@vaishnavsm.com
     title: mail
   - href: https://github.com/vaishnavsm
@@ -29,8 +29,6 @@ socials:
     title: linkedin
   - href: https://www.instagram.com/_vaishnavsm_/
     title: instagram
-  - href: https://vaishnavsm.com/feed.xml
-    title: rss
 
 permalink: /:year-:month-:day-:title/
 sass:
