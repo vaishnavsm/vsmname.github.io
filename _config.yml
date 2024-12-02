@@ -12,17 +12,15 @@ footer_text: "Powered by Jekyll. Theme forked from parchment."
 favicon_location: assets/favicon.ico
 
 highlighted_sections:
-  - title: Tech
-    href: /tags/#Tech
-  - title: Thoughts
-    href: /tags/#Thoughts
-  - title: Poetry
-    href: /tags/#Poetry
+  - title: Website
+    href: https://vaishnavsm.com
   - title: Schedule A Call
     href: https://calendly.com/vaishnavsm/catch-up
 
 # titles come from https://feathericons.com/
 socials:
+  - href: https://vaishnavsm.com
+    title: web
   - href: mailto://hey@vaishnavsm.com
     title: mail
   - href: https://github.com/vaishnavsm
