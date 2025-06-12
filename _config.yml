@@ -1,4 +1,4 @@
-title: Vaishnav @ re:Invent 2024 
+title: Vaishnav Sreekanth Menon
 author: Vaishnav Sreekanth Menon
 
 destination: docs
@@ -12,12 +12,12 @@ footer_text: "Powered by Jekyll. Theme forked from parchment."
 favicon_location: assets/favicon.ico
 
 highlighted_sections:
-  - title: Website
+  - title: Personal Blog
     href: https://vaishnavsm.com
   - title: Schedule A Call
     href: https://calendly.com/vaishnavsm/meet-at-re-invent
-  - title: Indians @ ReInvent Whatsapp
-    href: https://chat.whatsapp.com/Ff52KklVAqYINOHzzpvVHn
+  - title: Building TrustD To Revolutionize Access Control
+    href: https://trustd.sh
 
 # titles come from https://feathericons.com/
 socials:
@@ -27,7 +27,7 @@ socials:
     title: github
   - href: https://www.linkedin.com/in/vaishnavsm/
     title: linkedin
-  - href: https://www.instagram.com/_vaishnavsm_/
+  - href: https://www.instagram.com/vsm.name/
     title: instagram
 
 permalink: /:year-:month-:day-:title/
